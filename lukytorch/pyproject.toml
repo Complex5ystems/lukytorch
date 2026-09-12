@@ -1,0 +1,10 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "lukytorch"
+version = "1.9"
+dependencies = ["torch>=2.2.0", "numpy>=2.0.0"]
+requires-python = ">=3.12"
+authors = [{name = "Complex5ystems", email = "cedriku343@gmail.com"}]
