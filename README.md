@@ -20,7 +20,7 @@ lukytorch consists of some basic proprietary functions for model initialisation.
 The model_init function:
 
 
-`model_init()`
+`init_model()`
 
 
 is used for initialising a model using basic pytorch, you can configure the initialisation.
