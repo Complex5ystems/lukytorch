@@ -24,20 +24,7 @@ The model_init function:
 
 
 is used for initialising a model using basic pytorch, you can configure the initialisation.
-using global variables like neurons:
 
-`neurons = 64`
-
-You can also use the input_data variable to specify the training data:
-> [!IMPORTANT]
-> You will NEED to input 10 float decimals in the tensor field.
-> (10 features)
-
-`input_data = torch.FloatTensor([[1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0]])`
-
-Thank you for reading.
-
-~Comlex5ystems
 
 > [!WARNING]
 Lukytorch is still in
