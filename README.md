@@ -1,6 +1,6 @@
 # lukytorch
 
-A Python package that makes creating neural network models less painful. — Quality of life.
+A small Python package that makes creating neural network models less painful. — Quality of life.
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6341c9bb-9a65-4a4a-aba1-8e4524cd1c4f" />
 
